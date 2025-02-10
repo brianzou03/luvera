@@ -1,4 +1,4 @@
-#### Welcome to Luvera.club, your personal skincare companion! 
+# Welcome to Luvera.club, your personal skincare companion! 
 Our platform provides personalized skincare recommendations based on AI-powered skin analysis. By submitting three images of your face (front, left, and right), our model determines your skin type and offers tailored product suggestions and routine optimizations to help you achieve healthier skin.
 
 ### Features
